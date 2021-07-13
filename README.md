@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhojaifa
-- 👀 I’m interested in computer programming with a focus on game development
+- 👀 I’m interested in computer programming with an interest in game development
 - 🌱 I’m currently learning computer science at Brooklyn College
 - 📫 You can reach me at mhojaifa@yahoo.com
 
